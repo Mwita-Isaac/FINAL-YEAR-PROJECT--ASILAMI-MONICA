@@ -1,0 +1,29 @@
+com/jamada/animalsensa/ListActivity.java
+ com.jamada.animalsensa.ListActivity
+ com.jamada.animalsensa.ListActivity$1
+com/jamada/animalsensa/AdminListActivity.java
+ com.jamada.animalsensa.AdminListActivity
+ com.jamada.animalsensa.AdminListActivity$1
+com/jamada/animalsensa/MainActivity.java
+ com.jamada.animalsensa.MainActivity
+ com.jamada.animalsensa.MainActivity$1
+com/jamada/animalsensa/BuildConfig.java
+ com.jamada.animalsensa.BuildConfig
+com/jamada/animalsensa/LoginActivity.java
+ com.jamada.animalsensa.LoginActivity
+ com.jamada.animalsensa.LoginActivity$1
+com/jamada/animalsensa/MyAdapter.java
+ com.jamada.animalsensa.MyAdapter
+ com.jamada.animalsensa.MyAdapter$MyViewHolder
+com/jamada/animalsensa/UpdateActivity.java
+ com.jamada.animalsensa.UpdateActivity
+ com.jamada.animalsensa.UpdateActivity$1
+com/jamada/animalsensa/InputDataActivity.java
+ com.jamada.animalsensa.InputDataActivity
+ com.jamada.animalsensa.InputDataActivity$1
+com/jamada/animalsensa/SignupActivity.java
+ com.jamada.animalsensa.SignupActivity
+ com.jamada.animalsensa.SignupActivity$1
+com/jamada/animalsensa/AdminActivity.java
+ com.jamada.animalsensa.AdminActivity
+ com.jamada.animalsensa.AdminActivity$1

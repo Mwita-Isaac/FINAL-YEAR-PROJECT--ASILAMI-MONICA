@@ -1,0 +1,9 @@
+UNZIP THE FOLDER FIRST
+EXPORT DATABASE TO DATABASE WITH EXTENTION .SQL
+open animal sensa folder using android studio
+open android folder with any editor like visual code studio.
+
+
+to login as admin use the following
+USERNAME: bukoba@mail.com
+PASSWORD: user01

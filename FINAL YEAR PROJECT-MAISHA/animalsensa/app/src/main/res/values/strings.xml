@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">animal sensa</string>
+
+    <string-array name="po">
+        <item>hello</item>
+        <item>hello</item>
+        <item>hello</item>
+        <item>hello</item>
+    </string-array>
+
+    <string-array name="di">
+        <item>hello</item>
+        <item>hello</item>
+        <item>hello</item>
+        <item>hello</item>
+    </string-array>
+
+</resources>
